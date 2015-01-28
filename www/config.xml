@@ -4,10 +4,10 @@
     id        = "com.phonegap.example"
     version   = "1.0.0">
 
-<name>POP MERCHANDISING</name>
+<name>ANTUNES VATUVA BUILD</name>
 
 <description>
-Aplicação para a POP MERCHANDISING.
+Aplicação de teste.
 </description>
 
  <author href="http://phonegap.com" email="badvtv@gmail.com">
@@ -23,7 +23,7 @@ Antunes Vatuva
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="http://helpdesk.dlinkddns.com/pop/images/favicon.ico" />
+    <icon src="icon.png" />
 
 
     <!--
