@@ -23,7 +23,7 @@ Phonegap
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="icon.png" />
+    <icon src="http://helpdesk.dlinkddns.com/pop/images/favicon.ico" />
 
 
     <!--
